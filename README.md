@@ -36,11 +36,10 @@ Wafer_Fault_Detection_ML/
 
 
 ## ⚙️ How to Run Locally
-1. **Clone the repository:**
-
-   bash
-   git clone https://github.com/githubvishal1234/Wafer_Fault_Detection_ML.git
-   cd Wafer_Fault_Detection_ML
+  1. **Clone the repository:**
+  bash
+  git clone https://github.com/githubvishal1234/Wafer_Fault_Detection_ML.git
+  cd Wafer_Fault_Detection_ML
 
   bash
   python -m venv venv
