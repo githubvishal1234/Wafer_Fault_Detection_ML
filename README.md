@@ -35,7 +35,6 @@ Wafer_Fault_Detection_ML/
 
 
 ## ⚙️ How to Run Locally
-
 1. **Clone the repository:**
 
    bash
@@ -48,7 +47,7 @@ Wafer_Fault_Detection_ML/
 
   pip install -r requirements.txt
 
- python app.py
+  python app.py
 
 ✅ Features
 Sensor data ingestion and validation
