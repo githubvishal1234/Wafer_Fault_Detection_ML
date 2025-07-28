@@ -16,22 +16,23 @@ In semiconductor manufacturing, determining whether a wafer is faulty or not is 
 - **CI/CD (Coming Soon)**
 
 ## 📁 Project Structure
+
 Wafer_Fault_Detection_ML/
-│
-├── artifacts/ # Saved models and outputs
-├── data/ # Input data files
-├── logs/ # Log files
-├── notebooks/ # EDA and experimentation
-├── src/ # Source code
-│ ├── components/ # Data ingestion, transformation, training
-│ ├── pipelines/ # Model training and prediction
-│ ├── utils/ # Utility functions
-│ └── config/ # Configuration files
-├── templates/ # HTML templates for Flask
-├── app.py # Flask application
-├── requirements.txt # Python dependencies
-├── setup.py # Package setup
-└── README.md # Project documentation
+├── artifacts/               → Saved models and outputs
+├── data/                    → Input data files
+├── logs/                    → Log files
+├── notebooks/               → EDA and experimentation
+├── src/                     → Source code
+│   ├── components/          → Data ingestion, transformation, training
+│   ├── pipelines/           → Model training and prediction
+│   ├── utils/               → Utility functions
+│   └── config/              → Configuration files
+├── templates/               → HTML templates for Flask
+├── app.py                   → Flask application
+├── requirements.txt         → Python dependencies
+├── setup.py                 → Package setup
+└── README.md                → Project documentation
+
 
 
 ## ⚙️ How to Run Locally
