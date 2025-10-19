@@ -3,7 +3,7 @@ import pandas as pd
 import json
 
 # uniform resource indentifier
-uri = "mongodb+srv://SINGHxTUSHAR:tusharsingh@sensor-fault-detection.htp2fe2.mongodb.net/?retryWrites=true&w=majority"
+uri = "mongodb+srv://vishal:v1m2v3a4@cluster0.yclzoef.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 # Create a new client and connect to the server
 client = MongoClient(uri)
